@@ -1,0 +1,32 @@
+C:\Users\LAPTOP\Documents\Assignment\bin\Debug\net11.0\Assignment.exe
+C:\Users\LAPTOP\Documents\Assignment\bin\Debug\net11.0\Assignment.deps.json
+C:\Users\LAPTOP\Documents\Assignment\bin\Debug\net11.0\Assignment.runtimeconfig.json
+C:\Users\LAPTOP\Documents\Assignment\bin\Debug\net11.0\Assignment.runtimeconfig.dev.json
+C:\Users\LAPTOP\Documents\Assignment\bin\Debug\net11.0\Assignment.dll
+C:\Users\LAPTOP\Documents\Assignment\bin\Debug\net11.0\Assignment.pdb
+C:\Users\LAPTOP\Documents\Assignment\obj\Debug\net11.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP\Documents\Assignment\obj\Debug\net11.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\LAPTOP\Documents\Assignment\obj\Debug\net11.0\Assignment.AssemblyInfo.cs
+C:\Users\LAPTOP\Documents\Assignment\obj\Debug\net11.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\Documents\Assignment\obj\Debug\net11.0\Assignment.dll
+C:\Users\LAPTOP\Documents\Assignment\obj\Debug\net11.0\refint\Assignment.dll
+C:\Users\LAPTOP\Documents\Assignment\obj\Debug\net11.0\Assignment.pdb
+C:\Users\LAPTOP\Documents\Assignment\obj\Debug\net11.0\Assignment.genruntimeconfig.cache
+C:\Users\LAPTOP\Documents\Assignment\obj\Debug\net11.0\ref\Assignment.dll
+C:\Users\LAPTOP\Documents\Assignment\obj\Debug\net11.0\Assignment.csproj.Up2Date
+C:\Users\LAPTOP\Documents\Assignment\New folder\bin\Debug\net11.0\Assignment.exe
+C:\Users\LAPTOP\Documents\Assignment\New folder\bin\Debug\net11.0\Assignment.deps.json
+C:\Users\LAPTOP\Documents\Assignment\New folder\bin\Debug\net11.0\Assignment.runtimeconfig.json
+C:\Users\LAPTOP\Documents\Assignment\New folder\bin\Debug\net11.0\Assignment.runtimeconfig.dev.json
+C:\Users\LAPTOP\Documents\Assignment\New folder\bin\Debug\net11.0\Assignment.dll
+C:\Users\LAPTOP\Documents\Assignment\New folder\bin\Debug\net11.0\Assignment.pdb
+C:\Users\LAPTOP\Documents\Assignment\New folder\obj\Debug\net11.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP\Documents\Assignment\New folder\obj\Debug\net11.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\LAPTOP\Documents\Assignment\New folder\obj\Debug\net11.0\Assignment.AssemblyInfo.cs
+C:\Users\LAPTOP\Documents\Assignment\New folder\obj\Debug\net11.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\Documents\Assignment\New folder\obj\Debug\net11.0\Assignment.dll
+C:\Users\LAPTOP\Documents\Assignment\New folder\obj\Debug\net11.0\refint\Assignment.dll
+C:\Users\LAPTOP\Documents\Assignment\New folder\obj\Debug\net11.0\Assignment.pdb
+C:\Users\LAPTOP\Documents\Assignment\New folder\obj\Debug\net11.0\Assignment.genruntimeconfig.cache
+C:\Users\LAPTOP\Documents\Assignment\New folder\obj\Debug\net11.0\ref\Assignment.dll
+C:\Users\LAPTOP\Documents\Assignment\New folder\obj\Debug\net11.0\Assignment.csproj.Up2Date
